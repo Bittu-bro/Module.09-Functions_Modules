@@ -19,8 +19,6 @@
 # student_info("Piyush",103,Physic=79,chemistry=82,math = 91)
 
 
-
-
 def student_info(name,id,*habbit,**sub_marks):
     #print(type(sub_marks),sum(sub_marks.values()))
     
