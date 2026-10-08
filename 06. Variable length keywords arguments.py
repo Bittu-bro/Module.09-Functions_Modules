@@ -36,5 +36,5 @@ def student_info(name,id,*habbit,**sub_marks):
 
 
 student_info("Shivam",102,"Writing code",Physic=0,chemistry=0,math = 0)
-student_info("Piyush",103,"Singing",Physic=79,chemistry=82,math = 91)
+student_info("Piyush",103,"Singing",Physic=79,chemistry=82,math = 91,bio = 89,hindi = 85,eng = 75)
 student_info("Bittu",101,"Watching Movie")
